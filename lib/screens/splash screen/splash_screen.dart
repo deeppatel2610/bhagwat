@@ -30,7 +30,6 @@ class SplashScreen extends StatelessWidget {
             Text(
               'Bhagavad Geeta',
               style: TextStyle(
-                height: -2,
                 fontSize: 35,
                 color: Colors.black,
                 fontWeight: FontWeight.bold,
